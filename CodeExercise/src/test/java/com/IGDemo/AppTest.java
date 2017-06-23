@@ -11,7 +11,7 @@ public class AppTest {
 		
 		AppImplementation app = new AppImplementation();
 		
-		assertEquals("1234", app.cipher("4321"));
+		assertEquals("depmuj", app.cipher("jumped"));
 		
 	}
 
